@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shrutiypatil/](https://www.linkedin.com/in/shrutiypatil/)
 
-- ⚡ Fun fact **I can read a book a day**
+- ⚡ Fun fact **I can read a book in a day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
