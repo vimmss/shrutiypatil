@@ -1,6 +1,6 @@
 [![MasterHead](https://imgs.search.brave.com/Dhr20m1b0XkycX9QXxkF1fmasLsAyUvd1cFXrw3eFxU/rs:fit:1200:331:1/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RfbW9kdWxl/cy8xNDAwX29wdF8x/LzQ3NWViMDk1NzQ2/MTUxLjVlOWVjZGU2/OTVmN2EuZ2lm.gif)](https://shrutiypatil.io)
 <h1 align="center">Hi 👋, I'm Shruti Patil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Information security enthusiat from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutiypatil&label=Profile%20views&color=daa6f2&style=plastic" alt="shrutiypatil" /> </p>
 
